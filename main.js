@@ -38,4 +38,4 @@ function createCalendar(id, year, month) {
 }
 
 
-console.log(createCalendar("cal", 2012, 10));
+createCalendar("cal", 2012, 10);
